@@ -37,20 +37,15 @@ Generative AI evolves rapidly, and staying current is crucial. These are my core
 ---
 
 ## 🗂️ Repository Structure  
-prompt-engineering-with-openai/
-│
-├── README.md
-│
-├── 01_basics_prerequisites/ → Python, AI fundamentals, mathematical foundations
-├── 02_basics_of_llms/ → Tokenization, embeddings, transformer architecture
-├── 03_chatbots/ → Context management, persona design, dialogue flow
-├── 04_prompt_engineering/ → Prompt templates, reasoning strategies, evaluation
-│
-├── experiments/ → Jupyter notebooks for applied hands-on projects
-└── reflections/ → Key learnings, insights, progress reflections
+- `01_basics_prerequisites/` → Python, AI fundamentals, and math foundations  
+- `02_basics_of_llms/` → Tokenization, embeddings, transformer architecture  
+- `03_chatbots/` → Context management, persona design, dialogue flow  
+- `04_prompt_engineering/` → Prompt templates, reasoning strategies, evaluation  
+- `experiments/` → Jupyter notebooks for hands-on practice  
+- `reflections/` → Key learnings, insights, and personal reflections  
 
 📬 Contact
 
-Author: Meghana Madala
-meghanamadala17@gmail.com
-https://www.linkedin.com/in/meghana-madala-858a04213/
+- Author: Meghana Madala
+- meghanamadala17@gmail.com
+- https://www.linkedin.com/in/meghana-madala-858a04213/
