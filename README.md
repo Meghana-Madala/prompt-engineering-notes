@@ -5,14 +5,14 @@ It includes foundational AI concepts, coding exercises, chatbot development, and
 
 ---
 
-## 🎯 Goal / Motivation  
+## Goal
 
 To develop a deep, practical understanding of **Large Language Models (LLMs)**, **Prompt Engineering**, and **AI-driven application development**.  
 Through consistent documentation, this repository aims to serve as both a **knowledge portfolio** and a **technical reference** for my future AI and NLP projects.
 
 ---
 
-## 🧰 Coding Environment  
+## Coding Environment  
 
 The coding and experimentation for this certification are primarily conducted using the following platforms:
 
@@ -24,7 +24,7 @@ The coding and experimentation for this certification are primarily conducted us
 
 ---
 
-## 🧠 Generative AI Resources  
+## Generative AI Resources  
 
 Generative AI evolves rapidly, and staying current is crucial. These are my core references for learning and updates:
 
@@ -36,7 +36,7 @@ Generative AI evolves rapidly, and staying current is crucial. These are my core
 
 ---
 
-## 🗂️ Repository Structure  
+## Repository Structure  
 - `01_basics_prerequisites/` → Python, AI fundamentals, and math foundations  
 - `02_basics_of_llms/` → Tokenization, embeddings, transformer architecture  
 - `03_chatbots/` → Context management, persona design, dialogue flow  
@@ -44,7 +44,7 @@ Generative AI evolves rapidly, and staying current is crucial. These are my core
 - `experiments/` → Jupyter notebooks for hands-on practice  
 - `reflections/` → Key learnings, insights, and personal reflections  
 
-📬 Contact
+### Contact
 
 - Author: Meghana Madala
 - meghanamadala17@gmail.com
